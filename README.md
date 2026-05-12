@@ -1,5 +1,5 @@
-# web-vulnerability-scanner
-
+## Live Report
+[View full ZAP scan report](https://Manojgolla0516.github.io/web-vuln-scanner/zap_report.html)
 Hands-on web vulnerability assessment using OWASP ZAP against DVWA (Damn Vulnerable Web Application) running locally on Kali Linux.
 
 > ⚠️ **Ethical use only.** All scans were performed against DVWA — a deliberately vulnerable web application running on my local machine. No real websites were scanned.
