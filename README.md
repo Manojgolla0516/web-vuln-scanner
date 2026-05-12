@@ -1,5 +1,6 @@
 ## Live Report
-[View full ZAP scan report](https://Manojgolla0516.github.io/web-vuln-scanner/zap_report.html)
+
+[View full ZAP scan report](https://Manojgolla0516.github.io/web-vuln-scanner/ZAP-Report.html)
 
 # web-vulnerability-scanner
 
